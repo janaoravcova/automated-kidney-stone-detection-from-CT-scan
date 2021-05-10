@@ -18,6 +18,8 @@ Detegovať močové kamene v snímkach z CT zariadenia s využitím neurónov
 
 * do 13.5. - naštudovanie aspoň 5 článkov ku danej téme, vytvorenie prezentácie a setup vývojového prostredia
 
+### Na stiahnutie
+* Kostra diplomovej práce s bibliografickými odkazmi [LaTex pdf](kostra.pdf)
 
 ### Zdroje
 
