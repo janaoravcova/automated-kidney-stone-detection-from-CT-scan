@@ -17,6 +17,7 @@ Detegovať močové kamene v snímkach z CT zariadenia s využitím neurónov
 ### Časový plán
 
 * do 13.5. - naštudovanie aspoň 5 článkov ku danej téme, vytvorenie prezentácie a setup vývojového prostredia
+* do 1.6 - príprava prototypu ku projektovému semináru
 
 ### Na stiahnutie
 * Kostra diplomovej práce s bibliografickými odkazmi [LaTex pdf](kostra.pdf)
