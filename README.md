@@ -19,11 +19,17 @@ Detegovať močové kamene v snímkach z CT zariadenia s využitím neurónov
 * do 13.5. - naštudovanie aspoň 5 článkov ku danej téme, vytvorenie prezentácie a setup vývojového prostredia
 * do 1.6 - príprava prototypu ku projektovému semináru
 * týždeň 4. - 10.10. - konzultácia s lekárom o využití riešenia, oboznámenie sa s novým spôsobom anotácie dát
-* týždeň 11. - 17.10. - spracovanie nových dát pre zistenie kvality datasetu 
+* týždeň 11. - 17.10. - spracovanie nových dát pre zistenie kvality datasetu - dáta neboli vhodné, čaká sa na nové
+* 19.11. - obdržali sme nové dáta
+* 19.11. - 23.11. - normalizácia dicom dát
+* 23.11. - 30.11. - parsing anotácií
+* 1.12. - 6.12. - extrakcia componentov z obrazu
+* 6.12 - 8.12. - príprava datasetu
 
 ### Na stiahnutie
 * Kostra diplomovej práce s bibliografickými odkazmi [LaTex pdf](kostra.pdf)
 * Prezentácia na Projektový seminár (1) [pptx](prezentacia_seminar1.pptx)
+* Repozitár s [kódom](https://github.com/janaoravcova/diploma_thesis)
 
 ### Zdroje
 
