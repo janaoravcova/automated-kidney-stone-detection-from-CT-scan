@@ -25,7 +25,7 @@ Detegovať močové kamene v snímkach z CT zariadenia s využitím neurónov
 * 23.11. - 30.11. - parsing anotácií
 * 1.12. - 6.12. - extrakcia componentov z obrazu
 * 6.12 - 8.12. - príprava datasetu
-* 9.12 - _ - zaciatok prace na binarnom klasifikatore
+* 9.12 - _ - začiatok prace na binárnom klasifikátore
 
 ### Na stiahnutie
 * Kostra diplomovej práce s bibliografickými odkazmi [LaTex pdf](kostra.pdf)
