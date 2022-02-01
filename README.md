@@ -31,6 +31,7 @@ Detegovať močové kamene v snímkach z CT zariadenia s využitím neurónov
 * Kostra diplomovej práce s bibliografickými odkazmi [LaTex pdf](kostra.pdf)
 * Prezentácia na Projektový seminár (1) [pptx](prezentacia_seminar1.pptx)
 * Repozitár s [kódom](https://github.com/janaoravcova/diploma_thesis)
+* Prvé kapitoly [LaTex pdf](JODP (2).pdf)
 
 ### Zdroje
 
